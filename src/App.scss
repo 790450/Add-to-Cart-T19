@@ -3,3 +3,16 @@
     margin: 0;
     box-sizing: border-box;
 }
+.warning{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    right: 40%;
+    top: 10%;
+    background-color: rgb(255,0,0);
+    font-size: 20px;
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px;
+    border-radius: 5px;
+}

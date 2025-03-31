@@ -8,7 +8,7 @@ const Header = ({size , setShow}) => {
           <h2>Shopping Cart</h2>
         </div>  
         <div className="right" onClick={() => setShow(false)}>
-           <button className="fas fa-cart-plus">MY CART🛒</button>
+           <button className="btn">MY CART🛒</button>
            <div className="count">{size}</div>
         </div>
 

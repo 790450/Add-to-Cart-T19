@@ -32,19 +32,15 @@
 
         div:nth-child(2){
             button{
-                display: flex;
-                align-items: center;
-                flex-direction: column;
                 padding: 5px 10px;
                 font-weight: bold;
-                margin-right: 10px;
+                margin-right: 5px;
             }
         }
 
         div:nth-child(3){
 
             button{
-                align-items: center;
                 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
                 background-color: #ff0000;
                 color: #fff;
@@ -61,13 +57,10 @@
                 }
             }
             span{
-                align-items: center;
                 background-color: lightgreen;
-                padding: 12px 14px;
+                padding: 5px 10px;
                 border-radius: 5px;
-                gap: 5px;
                 margin-right: 50px;
-                margin-bottom: 10px;
                 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             }
         }
